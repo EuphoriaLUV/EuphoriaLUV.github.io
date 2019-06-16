@@ -1,4 +1,4 @@
-## 유용한 Atom Package
+## Atom Editor? A hackable text editor for the 21st Century
 
 * atom-beautify
 * highlight-selected
@@ -6,4 +6,3 @@
 * script
 * autocomplete-python
 * Sublime-Style-Column-Selection
-
